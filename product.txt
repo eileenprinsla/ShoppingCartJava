@@ -1,0 +1,5 @@
+Milk-24
+Apple-80
+Banana-40
+Egg-50
+Bread-45
